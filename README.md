@@ -1,2 +1,2 @@
 # Motif-data
-## Data will be uploaded soon...
+## Data will be uploaded soon
