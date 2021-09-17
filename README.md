@@ -1,6 +1,4 @@
 # Motif-data
-Folder data --> MOTIF datasets
-Folders dataset 1,2 --> MOTIF 1, 2
 
 Each dataset (**MOTIF 1** or **MOTIF 2**) has a folder containing .csv files. 
 Each .csv file represents a route.
